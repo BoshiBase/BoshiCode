@@ -1,1 +1,1 @@
-# BoshiCode
+Boshi Solidity Code
